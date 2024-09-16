@@ -5,7 +5,7 @@ int main(void) {
 
 	int num1, num2;
 
-	printf("2°³ÀÇ Á¤¼ö¸¦ ÀÔ·ÂÇØÁÖ¼¼¿ä: ");
+	printf("2ê°œì˜ ì •ìˆ˜ë¥¼ ì…ë ¥í•´ì£¼ì„¸ìš”: ");
 	scanf("%d %d", &num1, &num2);
 
 	printf("Input two integers: %d %d\n", num1, num2);
